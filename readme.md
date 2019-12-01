@@ -36,5 +36,6 @@ lib/
 
 ## Naming
    ### Methods:
-	For network requests should use "fetch" word
-	For getting data from local base should use "retrieve" word
+	"fetch" for network requests
+	"retrieve" for getting data from local base
+	"page" as suffix for widgets that represents separate screen or page

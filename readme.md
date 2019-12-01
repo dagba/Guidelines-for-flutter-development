@@ -34,7 +34,7 @@ lib/
 	injector.dart
 ```
 
-### Naming:
+### Naming
    #### Methods:
-	For network requests should use ```fetch``` word
-	For getting data from local base should use ```retrieve``` word
+	For network requests should use "fetch" word
+	For getting data from local base should use "retrieve" word

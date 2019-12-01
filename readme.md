@@ -35,9 +35,9 @@ lib/
 ```
 
 ## Naming
-   ### Methods:
+### Methods
 `"fetch"` for network requests. example: `fetchUsers`.
 
 `"retrieve"` for getting data from local base. example: `retrieveUsers`.
-
+### Class name
 `"page"` as suffix for widgets that represents separate screen or page. example: `LoginPage`.

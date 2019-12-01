@@ -35,6 +35,6 @@ lib/
 ```
 
 ### Naming:
-1. Methods:
+   #### Methods:
 	For network requests should use ```fetch``` word
 	For getting data from local base should use ```retrieve``` word

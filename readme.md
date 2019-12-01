@@ -36,6 +36,6 @@ lib/
 
 ## Naming
    ### Methods:
-	"fetch" for network requests
-	"retrieve" for getting data from local base
-	"page" as suffix for widgets that represents separate screen or page
+"fetch" for network requests. example: fetchUsers
+"retrieve" for getting data from local base. example: retrieveUsers
+"page" as suffix for widgets that represents separate screen or page. example: LoginPage

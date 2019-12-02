@@ -1,7 +1,7 @@
 # Guidelines for flutter development.
 
 Set of architecture, code styling, project setup, different logic and ui implementation rules.
-
+To mock data use fake datasource
 
 ## Table of Contents
 
@@ -41,3 +41,5 @@ lib/
 `"retrieve"` for getting data from local base. example: `retrieveUsers`.
 ### Class name
 `"page"` as suffix for widgets that represents separate screen or page. example: `LoginPage`.
+## Architecture
+To mock data use fake datasource

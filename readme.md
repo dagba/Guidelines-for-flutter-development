@@ -11,14 +11,16 @@ To mock data use fake datasource
 assets/
 	images/
 		logo.png
+	fonts/
+		Roboto.org
 lib/
-	scene/
+	screens/
 		login/
 			login_screen.dart
 			login_view_model.dart
 			login_router.dart
 			login_repository.dart		
-			view/
+			custom/
 		shared/
 	data/
 		model/
@@ -26,7 +28,7 @@ lib/
 		color.dart
 		style.dart
 		constants.dart
-	utility/
+	utils/
 		helper.dart
 	service/
 		api.dart
@@ -40,6 +42,6 @@ lib/
 
 `"retrieve"` for getting data from local base. example: `retrieveUsers`.
 ### Class name
-`"page"` as suffix for widgets that represents separate screen or page. example: `LoginPage`.
+`"screen"` as suffix for widgets that represents separate screen or page. example: `LoginScreen`.
 ## Architecture
 To mock data use fake datasource

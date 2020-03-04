@@ -14,13 +14,14 @@ assets/
 	fonts/
 		Roboto.org
 lib/
-	screens/
-		login/
-			login_screen.dart
-			login_view_model.dart
-			login_router.dart
-			login_repository.dart		
-			custom/
+	ui/
+		screens/
+			login/
+				login_screen.dart
+				login_view_model.dart
+				login_router.dart
+				login_repository.dart		
+				custom/
 		shared/
 	data/
 		model/
@@ -34,6 +35,7 @@ lib/
 		api.dart
 	main.dart
 	injector.dart
+	navigator.dart
 ```
 
 ## Naming
